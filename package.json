@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node -r esm server.js"
+  },
+  "dependencies": {
+    "esm": "3.2.25",
+    "polka": "0.5.2",
+    "ua-parser-js": "0.7.21"
+  },
+  "volta": {
+    "node": "12.16.1",
+    "yarn": "1.22.4"
+  }
+}
